@@ -4,7 +4,8 @@ function Install-DevApps {
         vscode `
         git `
         python3 `
-        sysinternals
+        sysinternals `
+        microsoft-windows-terminal
 }
 
 Install-DevApps
